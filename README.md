@@ -1,4 +1,4 @@
-<img width="960" alt="image" src="https://github.com/SarahSidAhmed/Note-App/assets/109920075/0f024a14-774e-4e53-a971-b76a87965f6f">#Note App with Android Studio
+<h1><b>Notes App with Android Studio</b></h1>
 </br></br>
 This project uses Kotlin with SQLite Database to store the notes.</br></br>
 The operations enabled here are:</br></br>
