@@ -1,4 +1,4 @@
-<h1><b>Notes App with Android Studio</b></h1>
+<h1>🔗<b>Notes App with Android Studio</b></h1>
 </br></br>
 This project uses Kotlin with SQLite Database to store the notes.</br></br>
 The operations enabled here are:</br></br>
